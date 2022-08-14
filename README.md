@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alihan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **JS,HTML,CSS and AngularJS**
 
