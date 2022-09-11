@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alihan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<p>I’m Alihan DEGIRMENCILER. I have finished Karabuk University Electrical and Electronical Engineering in 2022. I started to learn Front-End Web Development after my graduation. Trying to learn everday and want to be a better developer. Keep coding!</p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **VueJS**
 
-- 💬 Ask me about **JS,HTML,CSS and AngularJS**
+- 💬 Ask me about **JS,HTML,CSS,AngularJS and React**
 
 - 📫 How to reach me **alihandegirmenciler@gmail.com**
 
