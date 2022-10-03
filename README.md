@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Alihan</h1>
 
 <h3 align="center"> A passionate developer from Turkey</h3>
-<img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="center" src="./assets/i_love_coding.gif">
 <div align="center">
 <li>🌱 I’m currently learning <strong>VueJS, MS SQL, C#</strong> </li>
 <li>💬 Ask me about <strong>HTML, CSS, JS</strong> </li>
