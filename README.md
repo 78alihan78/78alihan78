@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Alihan</h1>
 
 <h3 align="center"> A passionate developer from Turkey</h3>
-
+<img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 <div align="center">
 <li>🌱 I’m currently learning <strong>VueJS, MS SQL, C#</strong> </li>
 <li>💬 Ask me about <strong>HTML, CSS, JS</strong> </li>
@@ -30,12 +30,16 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </div>
 
+
+
+
 <h3 align="center">Learning:</h3>
 <div align="center">
 
 <p align="center">
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  
 
@@ -54,3 +58,6 @@
     <img alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihandgrmnclr&layout=compact">
    
 </div>
+
+
+
