@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Alihan</h1>
 
 <h3 align="center"> A passionate developer from Turkey</h3>
-<p>I started to learn Front-End Web Development after my graduation. I attended Front-End development Bootcamps and want to develop a successful career in Front-End development by constantly improving myself.</p>
+<p>After my internships and university experience, I decided to continue in software development. I started to learn Front-End Web Development after my graduation. I attended some Bootcamps and want to develop a successful career software development by constantly improving myself.</p>
 <img align="center" src="./assets/i_love_coding.gif">
 <div align="center">
 
@@ -11,7 +11,7 @@
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="30" width="40" /></a>
  
 </p> 
   
