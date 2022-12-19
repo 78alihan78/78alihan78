@@ -44,14 +44,3 @@
 <img alt="Readme Stats Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihandgrmnclr&layout=compact">
    
 </div>
-
-
-
-<style>
-.gif {
-    margin-right: 30px;
-}
-.stats{
-    margin-top: 200px;
-}
-</style>
