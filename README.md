@@ -34,7 +34,7 @@
 <img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg" width="50px" height="50px">
 
 </div>
-<div style="margin-top:100px">
+<div style="margin-top:200px">
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=alihandgrmnclr&show_icons=true&theme=radical&count_private=true">
    <img alt="alihandgrmnclr GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihandgrmnclr&theme=algolia&hide_border=true">
 </div>
