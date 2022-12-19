@@ -2,14 +2,9 @@
 
 <h3> A passionate developer from Turkey</h3>
 <p>After my internships and university experience, I decided to continue in software development. I started to learn Front-End Web Development after my graduation. I attended some Bootcamps and want to develop a successful career software development by constantly improving myself.</p>
-<h2> Connect with me </h3>
-
-
 
 <div >
 <img class="gif" align="left"src="./assets/i_love_coding.gif" height=300 >
-
-
 
 <li>🌱 I’m currently learning <strong>VueJS, React</strong> </li>
 <li>💬 Ask me about <strong>HTML, CSS, JS, Vuejs</strong> </li>
