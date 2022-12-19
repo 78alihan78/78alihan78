@@ -2,9 +2,13 @@
 
 <h3> A passionate developer from Turkey</h3>
 <p>After my internships and university experience, I decided to continue in software development. I started to learn Front-End Web Development after my graduation. I attended some Bootcamps and want to develop a successful career software development by constantly improving myself.</p>
-<div align="center">
-<img align="left" style="margin-right:30px" src="./assets/i_love_coding.gif" height=300>
-</div>
+<h2> Connect with me </h3>
+
+<a href="https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="30" width="40" /></a>
+
+<div >
+<img align="left"src="./assets/i_love_coding.gif" height=300 style="margin-right:30px;">
+
 
 
 <li>🌱 I’m currently learning <strong>VueJS, React</strong> </li>
@@ -12,12 +16,6 @@
 <li>⚡ I'm interested in : <strong>Full Stack Development</strong> </li>
 
 
-<h2> Connect with me </h3>
-
-<a href="https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="30" width="40" /></a>
- 
-
-  
 <h2 ><strong>Technologies<strong></h2>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -35,6 +33,7 @@
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg" width="50px" height="50px">
 
+</div>
 <div style="margin-top:100px">
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=alihandgrmnclr&show_icons=true&theme=radical&count_private=true">
    <img alt="alihandgrmnclr GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihandgrmnclr&theme=algolia&hide_border=true">
