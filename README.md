@@ -14,7 +14,8 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <li>⚡ I'm interested in : <strong>Full Stack Development</strong> </li>
 <li>💬 Connect with me: <a href="https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="20" width="30" /></a></li><br/>
 
-<h2><strong>Technologies and Tools<strong></h2><hr>
+<h2><strong>Technologies and Tools<strong></h2>
+
 <h2>Front-End</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -24,6 +25,7 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 <h2>Others</h2>
+
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vitejs logo vector" width="40" height="40"/> </a>
 <a href="https://pugjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pugjs" width="40" height="40"/></a>
@@ -33,6 +35,7 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg" width="50px" height="50px">
 
 <h2>Learning</h2>
+
 <a href="https://jestjs.io/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="nuxt3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </div>
