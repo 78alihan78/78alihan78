@@ -24,12 +24,15 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
-<h2>Others</h2>
+<h2>Tools</h2>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://zeplin.io/" target="_blank"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="zeplin" width="40" height="40"/></a>
+<a href="https://slack.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/></a>
 
+<h2>Others</h2>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vitejs logo vector" width="40" height="40"/> </a>
 <a href="https://pugjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pugjs" width="40" height="40"/></a>
-<a href="https://zeplin.io/" target="_blank"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="zeplin" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg" width="50px" height="50px">
@@ -39,6 +42,7 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://jestjs.io/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="nuxt3" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" alt="graphql" width="40" height="40"/> </a> 
+<a href="https://dexie.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32483223?v=4" alt="dexie" width="40" height="40"/> </a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </div>
 
