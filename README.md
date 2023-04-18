@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Alihan</h1>
 <div align="center">
-    <img src="./assets/i_love_coding.gif" width="70%" height="400px">
+    <img src="./assets/i_love_coding.gif" width="500px" height="400px">
 
 <h1> A passionate developer from Turkey</h1>
 <p>Hello, my name is Alihan. I live in Turkey and I am a graduate of Electrical and Electronics Engineering. During my education, I became interested in the field of software and completed my graduation project in this area. Afterward, I improved myself by attending various software bootcamp programs and currently, I work as a Front-End Developer at Protel company.
@@ -24,6 +24,7 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
+<a href="https://jestjs.io/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> </a>
 <h2>Tools</h2>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://zeplin.io/" target="_blank"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="zeplin" width="40" height="40"/></a>
@@ -39,11 +40,10 @@ The software world is rapidly changing and this is an exciting opportunity for m
 
 <h2>Learning</h2>
 
-<a href="https://jestjs.io/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="nuxt3" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" alt="graphql" width="40" height="40"/> </a> 
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="nuxt3" width="40" height="40"/> </a> 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://dexie.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32483223?v=4" alt="dexie" width="40" height="40"/> </a> 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </div>
 
 <hr>
