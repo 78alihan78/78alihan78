@@ -29,6 +29,7 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://zeplin.io/" target="_blank"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="zeplin" width="40" height="40"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/></a>
+<a href="https://www.netlify.com/" target="_blank"><img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="netlify" width="40" height="40"/></a>
 
 <h2>Others</h2>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
