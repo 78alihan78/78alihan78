@@ -3,14 +3,14 @@
     <img src="./assets/i_love_coding.gif" width="500px" height="400px">
 
 <h1> A passionate developer from Turkey</h1>
-<p>Hello, my name is Alihan. I live in Turkey and I am a graduate of Electrical and Electronics Engineering. During my education, I became interested in the field of software and completed my graduation project in this area. Afterward, I improved myself by attending various software bootcamp programs and currently, I work as a Front-End Developer at Protel company.
+<p>Hello, my name is Alihan. I live in Turkey and I am a graduate of Electrical and Electronics Engineering. During my education, I became interested in the field of software and completed my graduation project in this area. Afterward, I improved myself by attending various software bootcamp programs and currently, I am working as a Front-End Developer at <a href="https://simprasuite.com.tr">Simpra</a>.
 
 The software world is rapidly changing and this is an exciting opportunity for me. I want to continue learning and developing myself.</p>
 
 <div >
 
-<li>🌱 I’m currently learning <strong>VueJS, React</strong> </li>
-<li>💬 Ask me about <strong>HTML, CSS, JS, Vuejs</strong> </li>
+<li>🌱 I’m currently learning <strong>VueJS, Nuxt, NodeJS</strong> </li>
+<li>💬 Ask me about <strong>HTML, CSS, JS, Vuejs, Tailwind</strong> </li>
 <li>⚡ I'm interested in : <strong>Full Stack Development</strong> </li>
 <li>💬 Connect with me: <a href="https://www.linkedin.com/in/alihan-degirmenciler/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihan-degirmenciler/" height="20" width="30" /></a></li><br/>
 
@@ -23,13 +23,14 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
 <a href="https://jestjs.io/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> </a>
 <h2>Tools</h2>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://zeplin.io/" target="_blank"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="zeplin" width="40" height="40"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/></a>
 <a href="https://www.netlify.com/" target="_blank"><img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="netlify" width="40" height="40"/></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://www.svgrepo.com/show/303210/figma-1-logo.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 <h2>Others</h2>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -45,6 +46,10 @@ The software world is rapidly changing and this is an exciting opportunity for m
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://dexie.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32483223?v=4" alt="dexie" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+
 </div>
 
 <hr>
